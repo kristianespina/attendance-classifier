@@ -1,0 +1,193 @@
+command,result
+time in,TIMEIN
+time in po,TIMEIN
+time in muna,TIMEIN
+time in ulit,TIMEIN
+time in po muna,TIMEIN
+time in po muna ulit,TIMEIN
+time in po ulit,TIMEIN
+time in muna ulit,TIMEIN
+time out,TIMEOUT
+time out po,TIMEOUT
+time out muna,TIMEOUT
+time out ulit,TIMEOUT
+time out po muna,TIMEOUT
+time out po muna ulit,TIMEOUT
+time out po ulit,TIMEOUT
+time out muna ulit,TIMEOUT
+break,BREAK
+break po,BREAK
+break muna,BREAK
+break ulit,BREAK
+break po muna,BREAK
+break po muna ulit,BREAK
+break po ulit,BREAK
+break muna ulit,BREAK
+back,RESUME
+back po,RESUME
+back muna,RESUME
+back ulit,RESUME
+back po muna,RESUME
+back po muna ulit,RESUME
+back po ulit,RESUME
+back muna ulit,RESUME
+timein,TIMEIN
+timein po,TIMEIN
+timein muna,TIMEIN
+timein ulit,TIMEIN
+timein po muna,TIMEIN
+timein po muna ulit,TIMEIN
+timein po ulit,TIMEIN
+timein muna ulit,TIMEIN
+timeout,TIMEOUT
+timeout po,TIMEOUT
+timeout muna,TIMEOUT
+timeout ulit,TIMEOUT
+timeout po muna,TIMEOUT
+timeout po muna ulit,TIMEOUT
+timeout po ulit,TIMEOUT
+timeout muna ulit,TIMEOUT
+time in,TIMEIN
+time in po,TIMEIN
+time in muna,TIMEIN
+time in ulit,TIMEIN
+time in po muna,TIMEIN
+time in po muna ulit,TIMEIN
+time in po ulit,TIMEIN
+time in muna ulit,TIMEIN
+time out,TIMEOUT
+time out po,TIMEOUT
+time out muna,TIMEOUT
+time out ulit,TIMEOUT
+time out po muna,TIMEOUT
+time out po muna ulit,TIMEOUT
+time out po ulit,TIMEOUT
+time out muna ulit,TIMEOUT
+break,BREAK
+break po,BREAK
+break muna,BREAK
+break ulit,BREAK
+break po muna,BREAK
+break po muna ulit,BREAK
+break po ulit,BREAK
+break muna ulit,BREAK
+back,RESUME
+back po,RESUME
+back muna,RESUME
+back ulit,RESUME
+back po muna,RESUME
+back po muna ulit,RESUME
+back po ulit,RESUME
+back muna ulit,RESUME
+timein,TIMEIN
+timein po,TIMEIN
+timein muna,TIMEIN
+timein ulit,TIMEIN
+timein po muna,TIMEIN
+timein po muna ulit,TIMEIN
+timein po ulit,TIMEIN
+timein muna ulit,TIMEIN
+timeout,TIMEOUT
+timeout po,TIMEOUT
+timeout muna,TIMEOUT
+timeout ulit,TIMEOUT
+timeout po muna,TIMEOUT
+timeout po muna ulit,TIMEOUT
+timeout po ulit,TIMEOUT
+timeout muna ulit,TIMEOUT
+yime in,TIMEIN
+timw in oo,TIMEIN
+time ib mjna,TIMEIN
+timw in ilit,TIMEIN
+tioe in po muna,TIMEIN
+timevin po mhna ulif,TIMEIN
+time in po uoiy,TIMEIN
+time in munamhliy,TIMEIN
+tume out,TIMEOUT
+tile oht po,TIMEOUT
+time ournmuna,TIMEOUT
+yije out ulit,TIMEOUT
+tile out po juna,TIMEOUT
+timsmout po muna jlit,TIMEOUT
+timd oht po ulit,TIMEOUT
+time outcmina ulig,TIMEOUT
+brsak,BREAK
+greak po,BREAK
+breaj muja,BREAK
+brsak uoit,BREAK
+breajmpo muna,BREAK
+brral po luna ulit,BREAK
+break po ioit,BREAK
+break munanuliy,BREAK
+bsck,RESUME
+gack po,RESUME
+bacm muna,RESUME
+back uoit,RESUME
+back pkvmuna,RESUME
+back oo mija ulit,RESUME
+bzcl po ulit,RESUME
+back muha ulif,RESUME
+tumein,TIMEIN
+timwin po,TIMEIN
+tilein juna,TIMEIN
+timeij uljt,TIMEIN
+timein povnuna,TIMEIN
+timein oobnuna ulit,TIMEIN
+tijein poculit,TIMEIN
+timejh muna ulit,TIMEIN
+timelut,TIMEOUT
+rimeoht po,TIMEOUT
+timeoug muha,TIMEOUT
+tikeout ukit,TIMEOUT
+timrout po mjna,TIMEOUT
+gimeoug po muna hlit,TIMEOUT
+timeour po uljt,TIMEOUT
+fimeout mhna ulif,TIMEOUT
+time un,TIMEIN
+tilevin po,TIMEIN
+timf in muna,TIMEIN
+time uh ulit,TIMEIN
+time in pl muba,TIMEIN
+time in oo muhanulit,TIMEIN
+tume in povulit,TIMEIN
+tjme ib muja ulit,TIMEIN
+tine out,TIMEOUT
+fime out pk,TIMEOUT
+tijd out muna,TIMEOUT
+time outgulit,TIMEOUT
+time kut pobmuna,TIMEOUT
+tjme put po mhna ulit,TIMEOUT
+time iut po ulig,TIMEOUT
+tkme out muns jlit,TIMEOUT
+breai,BREAK
+bresk po,BREAK
+vreak munz,BREAK
+bfdak ulit,BREAK
+break lo luna,BREAK
+hreak pl munamulit,BREAK
+breaj po uoit,BREAK
+break mnna ulit,BREAK
+baxk,RESUME
+baci po,RESUME
+back nuna,RESUME
+bafk ulit,RESUME
+back li muna,RESUME
+bsck pobmuna uljt,RESUME
+baci oo ulit,RESUME
+back mhna hlit,RESUME
+tkmein,TIMEIN
+gimein po,TIMEIN
+timeincmuna,TIMEIN
+tilein uoit,TIMEIN
+timrin po munw,TIMEIN
+timein libmuna ulit,TIMEIN
+tomein pomulit,TIMEIN
+timwin munabulit,TIMEIN
+timrout,TIMEOUT
+timeojt lo,TIMEOUT
+tileout luna,TIMEOUT
+tjmeout ylit,TIMEOUT
+timeoutcpo muna,TIMEOUT
+tineout pobmuna uljt,TIMEOUT
+timeout pobulkt,TIMEOUT
+timeoutbnuna ukit,TIMEOUT
