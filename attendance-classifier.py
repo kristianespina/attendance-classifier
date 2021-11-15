@@ -4,11 +4,11 @@ import numpy as np
 import pickle
 
 app = Celery('tasks',
-    broker='redis://',
-    backend='redis://'
+    broker='redis://host.docker.internal:6379',
+    backend='redis://host.docker.internal:6379'
 )
 
-model_filename = "model.pickle"
+model_filename = "models/attendance_classifier.pickle"
 classifier = pickle.load(open(model_filename, 'rb'))
 
 @app.task

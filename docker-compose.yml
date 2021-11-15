@@ -1,6 +1,10 @@
-version: "2"
+version: "3.9"
 services:
-  redis:
-  image: redis:latest
-  ports:
-    - 6379:6379
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      # celery -A attendance-classifier worker --loglevel=INFO
+    command: ["celery", "-A", "attendance-classifier", "worker", "-l", "info"]
+    volumes:
+      - ./:/app/

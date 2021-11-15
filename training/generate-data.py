@@ -91,4 +91,4 @@ synthetic_data = data + data + noisy_data_1 + noisy_data_2
 
 # Write csv
 df = pd.DataFrame(synthetic_data)
-df.to_csv("./dataset/attendance.csv", index=False)
+df.to_csv("../dataset/attendance.csv", index=False)
