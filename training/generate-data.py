@@ -4,6 +4,7 @@ import pandas as pd
 action = ["TIMEIN", "TIMEOUT", "BREAK", "RESUME", "TIMEIN", "TIMEOUT"]
 words = ["time in", "time out", "break", "back", "timein", "timeout"]
 suffixes = ["", " po", " muna", " ulit", " po muna", " po muna ulit", " po ulit",  " muna ulit"]
+
 def generate_typo(command):
   # convert the message to a list of characters
   message = list(command["command"])
