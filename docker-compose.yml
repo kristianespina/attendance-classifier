@@ -1,10 +1,12 @@
 version: "3.9"
 services:
-  worker:
+  attendance-classifier:
     build:
       context: .
       dockerfile: Dockerfile
       # celery -A attendance-classifier worker --loglevel=INFO
-    command: ["celery", "-A", "attendance-classifier", "worker", "-l", "info"]
+    # command: ["celery", "-A", "attendance-classifier", "worker", "-l", "info"]
+    command: ["python", "main.py"]
     volumes:
       - ./:/app/
+    restart: always

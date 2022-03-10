@@ -1,1 +1,0 @@
-celery -A attendance-classifier worker --loglevel=INFO
