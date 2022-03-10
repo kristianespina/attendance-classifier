@@ -1,13 +1,17 @@
-## Run Redis Server
+# Attendance Classifier
 
-```zsh
-./start-redis.sh
+## Setup
+
+### Create PubNub Account
+
+Fill up .env with pubnub credentials
+
+```
+PUBNUB_PUBLISH_KEY=
+PUBNUB_SUBSCRIBE_KEY=
+PUBNUB_SECRET_KEY=
 ```
 
-## Run worker
+## Launch Docker Container
 
-### attendnace-classifier
-
-```zsh
-./start-worker.sh
-```
+### Run `sh deploy.sh` on terminal
